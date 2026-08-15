@@ -34,6 +34,42 @@ Through this project, I learned:
 
 ---
 
+---
+
+# 📸 Project Screenshots
+
+## 🌐 Website Deployed on AWS EC2
+
+This screenshot shows the final website running through the EC2 public IP.
+
+![Website](screenshots/website.png)
+
+---
+
+## 💻 Ubuntu Terminal
+
+This screenshot shows the Ubuntu EC2 server and deployment environment.
+
+![Ubuntu Terminal](screenshots/terminal.png)
+
+---
+
+## ☁️ AWS EC2 Instance
+
+This screenshot shows the running EC2 instance used to host the website.
+
+![AWS EC2 Instance](screenshots/ec2-instance.png)
+
+---
+
+## 🧑‍💻 VS Code Project Structure
+
+This screenshot shows the complete project structure and files.
+
+![VS Code Project](screenshots/vscode.png)
+
+---
+
 # 🏗️ Architecture
 
 ```text
