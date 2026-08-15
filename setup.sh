@@ -9,3 +9,4 @@ sudo systemctl start nginx
 sudo cp index.html style.css /var/www/html/
 
 echo "Website deployment completed successfully!"
+
