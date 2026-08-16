@@ -53,6 +53,7 @@ Through this project, I learned:
 AWS-EC2-Webapp/
 │
 ├── index.html
+├── style.css
 ├── setup.sh
 ├── README.md
 └── screenshots/
