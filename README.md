@@ -2,6 +2,17 @@
 
 A simple static website deployed on an AWS EC2 Ubuntu server using Nginx and automated with a Bash shell script.
 
+ Technologies Used
+
+- HTML
+- CSS
+- Git & GitHub
+- Linux (Ubuntu)
+- AWS EC2
+- Nginx
+- Bash
+- SSH
+
 ---
 
 ##  Project Overview
@@ -33,6 +44,7 @@ Through this project, I learned:
 - Basic deployment automation
 
 ---
+
 ## Project Structure
 
 ```text
@@ -69,16 +81,7 @@ EC2 Ubuntu Server
        ├── Enable Nginx
        │
        └── Deploy website files
-Run the Script
-chmod +x setup.sh
 
-Give the script execute permission.
-
-./setup.sh
-
-Run the deployment script.
-
-- Why Automation?
 
 Automation reduces repetitive manual work and makes the deployment process:
 
