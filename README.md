@@ -35,6 +35,7 @@ Through this project, I learned:
 ---
 ## Project Structure
 
+```text
 AWS-EC2-Webapp/
 │
 ├── index.html
@@ -45,10 +46,11 @@ AWS-EC2-Webapp/
     ├── terminal.png
     ├── ec2-instance.png
     └── vscode.png
+```
 
 ---
 ##  Automation
-
+```text
 A Bash shell script named setup.sh is included in this project to automate the basic server setup and deployment process.
 
 Instead of manually entering every setup command, the script can perform multiple tasks automatically.
@@ -85,6 +87,7 @@ Consistent
 Repeatable
 Easier to maintain
 Less prone to manual errors
+```
 
 ---
 
