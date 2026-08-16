@@ -1,8 +1,9 @@
 # AWS EC2 Web Application Deployment
 
 A simple static website deployed on an AWS EC2 Ubuntu server using Nginx and automated with a Bash shell script.
+---
 
- Technologies Used
+ ## Technologies Used
 
 - HTML
 - CSS
@@ -209,3 +210,4 @@ Sachin Bharne Sir
 ---
 #  Author
 Sourabh R. Dhule
+git add README.md
