@@ -33,53 +33,6 @@ Through this project, I learned:
 - Basic deployment automation
 
 ---
-## ⚙️ How to Deploy
-
-The following commands are the key commands used to set up and deploy the website on the EC2 server.
-
-1️⃣ Update Ubuntu
-sudo apt update
-
-Updates the available package information on the Ubuntu server.
-
-2️⃣ Install Nginx
-sudo apt install nginx -y
-
-Installs the Nginx web server.
-
-3️⃣ Start and Enable Nginx
-sudo systemctl enable --now nginx
-
-Starts Nginx immediately and configures it to start automatically when the server boots.
-
-4️⃣ Clone the GitHub Repository
-git clone <YOUR-GITHUB-REPOSITORY-URL>
-
-Downloads the project files from GitHub to the EC2 server.
-
-5️⃣ Deploy Website Files
-sudo cp -r <PROJECT-FOLDER>/* /var/www/html/
-
-Copies the website files into the Nginx web directory.
-
-6️⃣ Check Nginx Status
-sudo systemctl status nginx
-
-Verifies that the Nginx web server is running correctly.
-
-🌐 Access the Website
-
-After deployment, open the following in a web browser:
-
-http://<EC2-PUBLIC-IP>
-
-The browser sends an HTTP request to Port 80.
-
-Nginx receives the request and serves the website files from:
-
-/var/www/html
-
----
 ## 🤖 Automation
 
 A Bash shell script named setup.sh is included in this project to automate the basic server setup and deployment process.
@@ -207,11 +160,11 @@ Browser
 ## Built with ☁️ AWS + 🐧 Linux + 🌐 Nginx + 🔧 Git + 🐚 Bash
 
 ---
-## Guided by
+## 👨‍💻 Guided by
 Sachin Bharne Sir 
 
 ---
-# 👨‍💻 Author
+#  Author
 Sourabh R. Dhule
 
 
