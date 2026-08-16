@@ -162,6 +162,7 @@ This screenshot shows the complete project structure and files.
                   
 --- 
 ##  Project Summary
+``` 
 HTML + CSS 
 ↓ 
 Git 
@@ -192,7 +193,7 @@ Browser
 - Security Groups
 - Nginx
 - Bash Scripting
-
+```
 ---
 
 ## 🚀 Future Improvements
