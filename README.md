@@ -4,7 +4,7 @@ A simple static website deployed on an AWS EC2 Ubuntu server using Nginx and aut
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how to create a simple HTML/CSS website, manage it using Git, store the project on GitHub, deploy it on an AWS EC2 Ubuntu server, configure Nginx as the web server, and automate deployment using a Bash script.
 
@@ -14,7 +14,7 @@ Developer → Git → GitHub → AWS EC2 → Ubuntu → Nginx → Website
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of this project is to understand the complete basic workflow of deploying a website to a cloud server.
 
@@ -33,7 +33,21 @@ Through this project, I learned:
 - Basic deployment automation
 
 ---
-## 🤖 Automation
+## Project Structure
+
+AWS-EC2-Webapp/
+│
+├── index.html
+├── setup.sh
+├── README.md
+└── screenshots/
+    ├── website.png
+    ├── terminal.png
+    ├── ec2-instance.png
+    └── vscode.png
+
+---
+##  Automation
 
 A Bash shell script named setup.sh is included in this project to automate the basic server setup and deployment process.
 
@@ -42,7 +56,6 @@ Instead of manually entering every setup command, the script can perform multipl
 Automation Flow
 EC2 Ubuntu Server
        │
-       ▼
    setup.sh
        │
        ├── Update packages
@@ -75,7 +88,7 @@ Less prone to manual errors
 
 ---
 
-# 📸 Project Screenshots
+#  Project Screenshots
 
 ## 🌐 Website Deployed on AWS EC2
 
@@ -108,7 +121,7 @@ This screenshot shows the complete project structure and files.
 ![VS Code Project](screenshots/vscode.png)
 
 ---
-# 🏗️ Architecture
+#  Architecture
 
                     Developer
                        │
@@ -140,7 +153,7 @@ This screenshot shows the complete project structure and files.
 
                   
 --- 
-## ⭐ Project Summary
+##  Project Summary
 HTML + CSS 
 ↓ 
 Git 
