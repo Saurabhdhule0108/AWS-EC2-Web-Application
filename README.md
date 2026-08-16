@@ -21,7 +21,7 @@ A simple static website deployed on an AWS EC2 Ubuntu server using Nginx and aut
 
 This project demonstrates how to create a simple HTML/CSS website, manage it using Git, store the project on GitHub, deploy it on an AWS EC2 Ubuntu server, configure Nginx as the web server, and automate deployment using a Bash script.
 
-The complete flow is:
+** The complete flow is:
 
 Developer → Git → GitHub → AWS EC2 → Ubuntu → Nginx → Website
 
@@ -68,8 +68,7 @@ AWS-EC2-Webapp/
 ```text
 A Bash shell script named setup.sh is included in this project to automate the basic server setup and deployment process.
 
-
-Automation Flow
+** Automation Flow
 
 EC2 Ubuntu Server
        │
@@ -86,7 +85,7 @@ EC2 Ubuntu Server
        └── Deploy website files
 
 
-Automation reduces repetitive manual work and makes the deployment process:
+** Automation reduces repetitive manual work and makes the deployment process:
 
 - Faster
 - Consistent
@@ -181,7 +180,7 @@ Static Website
 Browser
 
 ## Built with ☁️ AWS + 🐧 Linux + 🌐 Nginx + 🔧 Git + 🐚 Bash
-
+```
 ---
 ##  Skills Learned
 
@@ -194,7 +193,7 @@ Browser
 - Security Groups
 - Nginx
 - Bash Scripting
-```
+
 ---
 
 ## 🚀 Future Improvements
@@ -213,4 +212,3 @@ Sachin Bharne Sir
 ---
 #  Author
 Sourabh R. Dhule
-git add README.md
