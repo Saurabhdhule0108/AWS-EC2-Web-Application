@@ -53,9 +53,9 @@ AWS-EC2-Webapp/
 ```text
 A Bash shell script named setup.sh is included in this project to automate the basic server setup and deployment process.
 
-Instead of manually entering every setup command, the script can perform multiple tasks automatically.
 
 Automation Flow
+
 EC2 Ubuntu Server
        │
    setup.sh
@@ -78,15 +78,15 @@ Give the script execute permission.
 
 Run the deployment script.
 
-Why Automation?
+- Why Automation?
 
 Automation reduces repetitive manual work and makes the deployment process:
 
-Faster
-Consistent
-Repeatable
-Easier to maintain
-Less prone to manual errors
+- Faster
+- Consistent
+- Repeatable
+- Easier to maintain
+- Less prone to manual errors
 ```
 
 ---
@@ -176,12 +176,33 @@ Browser
 ## Built with ☁️ AWS + 🐧 Linux + 🌐 Nginx + 🔧 Git + 🐚 Bash
 
 ---
+##  Skills Learned
+
+- HTML & CSS
+- VS Code
+- Git & GitHub
+- Linux & Ubuntu
+- AWS EC2
+- SSH
+- Security Groups
+- Nginx
+- Bash Scripting
+
+---
+
+## 🚀 Future Improvements
+
+- Add a custom domain
+- Enable HTTPS with SSL
+- Automate deployment
+- Add monitoring and logging
+- Improve website design
+- Use AWS services for better scalability
+
+---
 ## 👨‍💻 Guided by
 Sachin Bharne Sir 
 
 ---
 #  Author
 Sourabh R. Dhule
-
-
-
