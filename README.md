@@ -200,7 +200,6 @@ Browser
 
 - Add a custom domain
 - Enable HTTPS with SSL
-- Automate deployment
 - Add monitoring and logging
 - Improve website design
 - Use AWS services for better scalability
