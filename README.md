@@ -1,6 +1,6 @@
 # AWS EC2 Web Application Deployment
 
-A simple static website deployed on an AWS EC2 Ubuntu server using Nginx and automated with a Bash shell script.
+A simple static website manually deployed on an AWS EC2 Ubuntu server using Nginx, with security group configuration, SSH access, and web server setup.
 
 ---
 
