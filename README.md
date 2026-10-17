@@ -203,11 +203,7 @@ Browser
 - Add monitoring and logging
 - Improve website design
 - Use AWS services for better scalability
-
----
-## 👨‍💻 Guided by
-Sachin Bharne Sir 
-
+  
 ---
 #  Author
 Sourabh R. Dhule
